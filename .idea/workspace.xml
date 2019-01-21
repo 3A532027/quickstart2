@@ -127,6 +127,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="167" />
+    <option name="y" value="42" />
     <option name="width" value="1100" />
     <option name="height" value="1075" />
   </component>
